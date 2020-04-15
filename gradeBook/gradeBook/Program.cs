@@ -1,5 +1,4 @@
-﻿using System;
-
+﻿
 namespace gradeBook
 {
     class Program
@@ -7,7 +6,7 @@ namespace gradeBook
         static void Main(string[] args)
         {
             if (args.Length > 0) {
-                Console.WriteLine($"Hello {args[0]}!");
+                System.Console.WriteLine($"Hello {args[0]}!");
             }
 
         }

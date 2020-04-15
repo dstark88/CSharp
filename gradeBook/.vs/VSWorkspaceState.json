@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\gradeBook"
+    "\\gradeBook",
+    "\\gradeBook\\obj\\Debug",
+    "\\gradeBook\\obj\\Debug\\netcoreapp3.1"
   ],
   "SelectedNode": "\\gradeBook\\Program.cs",
   "PreviewInSolutionExplorer": true

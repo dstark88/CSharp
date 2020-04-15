@@ -1,20 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Denise.Stark\\code\\sandbox\\CSharp\\gradeBook\\gradeBook\\gradeBook.csproj": {}
+    "Z:\\code\\sandbox\\CSharp\\gradeBook\\gradeBook\\gradeBook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Denise.Stark\\code\\sandbox\\CSharp\\gradeBook\\gradeBook\\gradeBook.csproj": {
+    "Z:\\code\\sandbox\\CSharp\\gradeBook\\gradeBook\\gradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Denise.Stark\\code\\sandbox\\CSharp\\gradeBook\\gradeBook\\gradeBook.csproj",
+        "projectUniqueName": "Z:\\code\\sandbox\\CSharp\\gradeBook\\gradeBook\\gradeBook.csproj",
         "projectName": "gradeBook",
-        "projectPath": "C:\\Users\\Denise.Stark\\code\\sandbox\\CSharp\\gradeBook\\gradeBook\\gradeBook.csproj",
+        "projectPath": "Z:\\code\\sandbox\\CSharp\\gradeBook\\gradeBook\\gradeBook.csproj",
         "packagesPath": "C:\\Users\\Denise.Stark\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Denise.Stark\\code\\sandbox\\CSharp\\gradeBook\\gradeBook\\obj\\",
+        "outputPath": "Z:\\code\\sandbox\\CSharp\\gradeBook\\gradeBook\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Denise.Stark\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,14 @@
+C:\Users\Denise.Stark\source\repos\gradeBook2\gradeBook2\bin\Debug\gradeBook2.exe.config
+C:\Users\Denise.Stark\source\repos\gradeBook2\gradeBook2\bin\Debug\gradeBook2.exe
+C:\Users\Denise.Stark\source\repos\gradeBook2\gradeBook2\bin\Debug\gradeBook2.pdb
+C:\Users\Denise.Stark\source\repos\gradeBook2\gradeBook2\obj\Debug\gradeBook2.csprojAssemblyReference.cache
+C:\Users\Denise.Stark\source\repos\gradeBook2\gradeBook2\obj\Debug\gradeBook2.csproj.CoreCompileInputs.cache
+C:\Users\Denise.Stark\source\repos\gradeBook2\gradeBook2\obj\Debug\gradeBook2.exe
+C:\Users\Denise.Stark\source\repos\gradeBook2\gradeBook2\obj\Debug\gradeBook2.pdb
+Z:\code\sandbox\CSharp\gradeBook2\gradeBook2\bin\Debug\gradeBook2.exe.config
+Z:\code\sandbox\CSharp\gradeBook2\gradeBook2\bin\Debug\gradeBook2.exe
+Z:\code\sandbox\CSharp\gradeBook2\gradeBook2\bin\Debug\gradeBook2.pdb
+Z:\code\sandbox\CSharp\gradeBook2\gradeBook2\obj\Debug\gradeBook2.csproj.CoreCompileInputs.cache
+Z:\code\sandbox\CSharp\gradeBook2\gradeBook2\obj\Debug\gradeBook2.exe
+Z:\code\sandbox\CSharp\gradeBook2\gradeBook2\obj\Debug\gradeBook2.pdb
+Z:\code\sandbox\CSharp\gradeBook2\gradeBook2\obj\Debug\gradeBook2.csprojAssemblyReference.cache
