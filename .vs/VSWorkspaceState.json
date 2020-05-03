@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\GradeBook",
+    "\\GradeBook\\src",
+    "\\GradeBook\\test",
+    "\\GradeBook\\test\\GradeBook.Tests"
   ],
+  "SelectedNode": "\\GradeBook\\src\\GradeBook.sln",
   "PreviewInSolutionExplorer": false
 }
