@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{238369C4-6D0F-4D04-A8BF-1FEC36078C91}</ProjectGuid>
+    <ProjectGuid>{FA178C28-F907-4596-8E34-9D8786B776D1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_8_Multiply</RootNamespace>
-    <AssemblyName>8-Multiply</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <RootNamespace>_8_PlanetName1</RootNamespace>
+    <AssemblyName>8-PlanetName1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>

@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E7E60AE0-C511-4ECA-A3D0-29F9F79C5FCD}</ProjectGuid>
+    <ProjectGuid>{038EFF3F-705A-4B6A-974B-2FA61355F413}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_8_TotalPoints</RootNamespace>
-    <AssemblyName>8-TotalPoints</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <RootNamespace>_8_AbbreviateTwoWordName1</RootNamespace>
+    <AssemblyName>8-AbbreviateTwoWordName1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>

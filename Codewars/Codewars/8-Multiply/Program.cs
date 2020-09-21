@@ -14,7 +14,7 @@ namespace _8_Multiply
         }
 
         static void Main(string[] args)
-        { 
+        {
             Console.WriteLine(Multiply(20, 10));
         }
     }
